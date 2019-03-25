@@ -20,3 +20,8 @@ grunt serve
 // build the project and run tests
 grunt karma
 ```
+
+## Notes
+
+* Version `0.1.1-onb.0` modified by [ONB-RD](https://github.com/ONB-RD) and published at NPM as 
+[@onb-frs/iiif-cropper](https://www.npmjs.com/package/@onb-frs/iiif-cropper)
